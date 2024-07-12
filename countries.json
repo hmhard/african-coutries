@@ -1,0 +1,287 @@
+{
+	"DZ":
+	{
+		"country": "Algeria",
+		"continent": "Africa"
+	},
+	"AO":
+	{
+		"country": "Angola",
+		"continent": "Africa"
+	},
+	"BJ":
+	{
+		"country": "Benin",
+		"continent": "Africa"
+	},
+	"BW":
+	{
+		"country": "Botswana",
+		"continent": "Africa"
+	},
+	"BF":
+	{
+		"country": "Burkina Faso",
+		"continent": "Africa"
+	},
+	"BI":
+	{
+		"country": "Burundi",
+		"continent": "Africa"
+	},
+	"CM":
+	{
+		"country": "Cameroon",
+		"continent": "Africa"
+	},
+	"CV":
+	{
+		"country": "Cape Verde",
+		"continent": "Africa"
+	},
+	"CF":
+	{
+		"country": "Central African Republic",
+		"continent": "Africa"
+	},
+	"TD":
+	{
+		"country": "Chad",
+		"continent": "Africa"
+	},
+	"KM":
+	{
+		"country": "Comoros",
+		"continent": "Africa"
+	},
+	"CG":
+	{
+		"country": "Congo",
+		"continent": "Africa"
+	},
+	"CD":
+	{
+		"country": "The Democratic Republic of The Congo",
+		"continent": "Africa"
+	},
+	"CI":
+	{
+		"country": "Cote D'ivoire",
+		"continent": "Africa"
+	},
+	"DJ":
+	{
+		"country": "Djibouti",
+		"continent": "Africa"
+	},
+	"EG":
+	{
+		"country": "Egypt",
+		"continent": "Africa"
+	},
+	"GQ":
+	{
+		"country": "Equatorial Guinea",
+		"continent": "Africa"
+	},
+	"ER":
+	{
+		"country": "Eritrea",
+		"continent": "Africa"
+	},
+	"ET":
+	{
+		"country": "Ethiopia",
+		"continent": "Africa"
+	},
+	"GA":
+	{
+		"country": "Gabon",
+		"continent": "Africa"
+	},
+	"GM":
+	{
+		"country": "Gambia",
+		"continent": "Africa"
+	},
+	"GH":
+	{
+		"country": "Ghana",
+		"continent": "Africa"
+	},
+	"GN":
+	{
+		"country": "Guinea",
+		"continent": "Africa"
+	},
+	"GW":
+	{
+		"country": "Guinea-bissau",
+		"continent": "Africa"
+	},
+	"KE":
+	{
+		"country": "Kenya",
+		"continent": "Africa"
+	},
+	"LS":
+	{
+		"country": "Lesotho",
+		"continent": "Africa"
+	},
+	"LR":
+	{
+		"country": "Liberia",
+		"continent": "Africa"
+	},
+	"LY":
+	{
+		"country": "Libya",
+		"continent": "Africa"
+	},
+	"MG":
+	{
+		"country": "Madagascar",
+		"continent": "Africa"
+	},
+	"MW":
+	{
+		"country": "Malawi",
+		"continent": "Africa"
+	},
+	"ML":
+	{
+		"country": "Mali",
+		"continent": "Africa"
+	},
+	"MR":
+	{
+		"country": "Mauritania",
+		"continent": "Africa"
+	},
+	"MU":
+	{
+		"country": "Mauritius",
+		"continent": "Africa"
+	},
+	"YT":
+	{
+		"country": "Mayotte",
+		"continent": "Africa"
+	},
+	"MA":
+	{
+		"country": "Morocco",
+		"continent": "Africa"
+	},
+	"MZ":
+	{
+		"country": "Mozambique",
+		"continent": "Africa"
+	},
+	"NA":
+	{
+		"country": "Namibia",
+		"continent": "Africa"
+	},
+	"NE":
+	{
+		"country": "Niger",
+		"continent": "Africa"
+	},
+	"NG":
+	{
+		"country": "Nigeria",
+		"continent": "Africa"
+	},
+	"RE":
+	{
+		"country": "Reunion",
+		"continent": "Africa"
+	},
+	"RW":
+	{
+		"country": "Rwanda",
+		"continent": "Africa"
+	},
+	"SH":
+	{
+		"country": "Saint Helena",
+		"continent": "Africa"
+	},
+	"ST":
+	{
+		"country": "Sao Tome and Principe",
+		"continent": "Africa"
+	},
+	"SN":
+	{
+		"country": "Senegal",
+		"continent": "Africa"
+	},
+	"SC":
+	{
+		"country": "Seychelles",
+		"continent": "Africa"
+	},
+	"SL":
+	{
+		"country": "Sierra Leone",
+		"continent": "Africa"
+	},
+	"SO":
+	{
+		"country": "Somalia",
+		"continent": "Africa"
+	},
+	"ZA":
+	{
+		"country": "South Africa",
+		"continent": "Africa"
+	},
+	"SD":
+	{
+		"country": "Sudan",
+		"continent": "Africa"
+	},
+	"SZ":
+	{
+		"country": "Swaziland",
+		"continent": "Africa"
+	},
+	"TZ":
+	{
+		"country": "Tanzania, United Republic of",
+		"continent": "Africa"
+	},
+	"TG":
+	{
+		"country": "Togo",
+		"continent": "Africa"
+	},
+	"TN":
+	{
+		"country": "Tunisia",
+		"continent": "Africa"
+	},
+	"UG":
+	{
+		"country": "Uganda",
+		"continent": "Africa"
+	},
+	"EH":
+	{
+		"country": "Western Sahara",
+		"continent": "Africa"
+	},
+	"ZM":
+	{
+		"country": "Zambia",
+		"continent": "Africa"
+	},
+	"ZW":
+	{
+		"country": "Zimbabwe",
+		"continent": "Africa"
+	}
+}
